@@ -1,0 +1,2 @@
+{'MaSV': 'SV02', 'HoTen': 'Tran Thi B', 'Diem': 'abc'}
+{'MaSV': 'SV03', 'HoTen': 'Le Van C', 'Diem': '11'}
